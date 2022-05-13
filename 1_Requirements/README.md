@@ -1,11 +1,11 @@
-# SOFTWARE REQUIREMENTS
+## SOFTWARE REQUIREMENTS
 * STM32 IDE 
 ## COMPONENTS 
 * STM32F407VG MICROCONTROLLER BOARD
 ## REQUIREMENTS FOR THE PROJECTS ARE :
-# DESCRIPTION
+## DESCRIPTION
 # STM32F407VG
-* The STM32F405xx and STM32F407xx family is based on the high-performance Arm® Cortex®-M4 32-bit RISC core operating at a frequency of up to 168 MHz. The Cortex-M4 core features a Floating point unit (FPU) single precision which supports all Arm single-precision data-processing instructions and data types. It also implements a full set of DSP instructions and a memory protection unit (MPU) which enhances application security. The STM32F405xx and STM32F407xx family incorporates high-speed embedded 
+* STM32F405xx and STM32F407xx are based on the high-performance Arm® Cortex®-M4 32-bit RISC core operating at 168 MHz. Cortex-M4 cores feature a floating point unit (FPU) that supports all Arm single-precision data-processing instructions. In addition, it implements a complete set of DSP instructions and a memory protection unit (MPU) to enhance application security. The STM32F405xx and STM32F407xx family incorporates high-speed embedded.
 # Xpack Packages :
 * Windows Build Tools:
 The xPack Windows Build Tools is a standalone Windows binary distribution of GNU make and a few of other tools required by the Eclipse Embedded CDT (formerly GNU MCU/ARM Eclipse) project, but the binaries can also be used in generic build environments.
@@ -19,7 +19,29 @@ The xPack Windows Build Tools is a standalone Windows binary distribution of GNU
  * 512 bytes of OTP memory.
  * Flexible static memory controller supporting Compact Flash, SRAM, PSRAM, NOR and NAND memories.
 # WORKING PRINCIPLE
- * Assume that the automobile is the microcontroller. If the button is hit, the first led (red) will turn on, Clicking again  the wiper will start, and the second led (blue) will turn on for a desired rate. If the button is pressed again, the third led (green) will turn on, and the wiper's speed will be increased in comparison to the previous one. The fourth press will turn on the fourth led (orange), and the wiper speed will be increased in accordance with the previous one. The microcontroller (vehicle) is turned off after the fifth click.
+ * Consider the automobile as a microcontroller. If the button is pressed, the first led (red) will turn on, clicking again will start the wiper, and the second led (blue) will turn on for a desired time. When the button is pressed again, the third led (green) will turn on, and the wiper speed will increase as compared to the previous one. When the fourth button is pressed, the fourth led (orange) will be lit, and the wiper speed will increase in accordance with the previous one. After the fifth click, the microcontroller (vehicle) is turned off.
+
+## SWOT ANALYSIS
+# STRENGTH
+* Low Budget
+* Good Reputation
+* High Bargaining Power Supliers
+* Big Influence on the Market
+# WEAKNESS
+* Structural Inertia
+* High Transaction Cost
+* No Focus on Private Sector
+* Week Focus on Process Innovations
+# OPPRONUTIES
+* Emerging New Markets 
+* Technological Development
+* Demand for Saver Equipments
+* Technological Lock in of Product
+# THREATS
+* Low Bargaining Power Buyers
+* Highly REgulated Industry
+* Ethical Pressure
+* Econimical Crisis
 # USES
 
 # 4W & H (WHO,WHAT,WHEN,WHERE,HOW)
@@ -46,27 +68,5 @@ The operational speed of a vehicle wiper is controlled by a wiper speed control 
 | ---|:------------|:-------|
 | HL1-LL1 | Push Button | Implemented | 
 | HL2-LL2 | Red,Green,Blue Leds | Implemented |
-## SWOT ANALYSIS
-# STRENGTH
-* Low Budget
-* Good Reputation
-* High Bargaining Power Supliers
-* Big Influence on the Market
-# WEAKNESS
-* Structural Inertia
-* High Transaction Cost
-* No Focus on Private Sector
-* Week Focus on Process Innovations
-# OPPRONUTIES
-* Emerging New Markets 
-* Technological Development
-* Demand for Saver Equipments
-* Technological Lock in of Product
-# THREATS
-* Low Bargaining Power Buyers
-* Highly REgulated Industry
-* Ethical Pressure
-* Econimical Crisis
-
 
 
