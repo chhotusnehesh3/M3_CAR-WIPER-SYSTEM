@@ -1,9 +1,9 @@
-## SOFTWARE REQUIREMENTS
+# SOFTWARE REQUIREMENTS
 * STM32 IDE 
-## COMPONENTS 
+# COMPONENTS 
 * STM32F407VG MICROCONTROLLER BOARD
-## REQUIREMENTS FOR THE PROJECTS ARE :
-## DESCRIPTION
+# REQUIREMENTS FOR THE PROJECTS ARE :
+# DESCRIPTION
 # STM32F407VG
 * STM32F405xx and STM32F407xx are based on the high-performance Arm® Cortex®-M4 32-bit RISC core operating at 168 MHz. Cortex-M4 cores feature a floating point unit (FPU) that supports all Arm single-precision data-processing instructions. In addition, it implements a complete set of DSP instructions and a memory protection unit (MPU) to enhance application security. The STM32F405xx and STM32F407xx family incorporates high-speed embedded.
 # Xpack Packages :
@@ -21,7 +21,7 @@ The xPack Windows Build Tools is a standalone Windows binary distribution of GNU
 # WORKING PRINCIPLE
  * Consider the automobile as a microcontroller. If the button is pressed, the first led (red) will turn on, clicking again will start the wiper, and the second led (blue) will turn on for a desired time. When the button is pressed again, the third led (green) will turn on, and the wiper speed will increase as compared to the previous one. When the fourth button is pressed, the fourth led (orange) will be lit, and the wiper speed will increase in accordance with the previous one. After the fifth click, the microcontroller (vehicle) is turned off.
 
-## SWOT ANALYSIS
+# SWOT ANALYSIS
 # STRENGTH
 * Low Budget
 * Good Reputation
@@ -49,7 +49,7 @@ The xPack Windows Build Tools is a standalone Windows binary distribution of GNU
 The operational speed of a vehicle wiper is controlled by a wiper speed control mechanism based on rain conditions. To generate, the control system incorporates a rain sensor (30) that detects rain conditions. The amplitude of an analogue signal depends on the detected rain conditions.
 # WHY
 * To keep the windscreen clean enough to give adequate view at all times.
-#WHEN
+# WHEN
 * The windshield wipers remove rain and snow from the windshield, while the headlights improve visibility at night.
 # WHO
 * A wiper speed control system for an automobile manages the wiper's functioning speed in response to weather conditions.
