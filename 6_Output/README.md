@@ -1,19 +1,8 @@
 # OUTPUT IMAGES
 1. user button and hold it for two seconds
-![ENGINE ON STATE](https://user-images.githubusercontent.com/101312396/168205845-9855cb85-3c2a-49ee-9e32-86cdc944a7c0.png)
-2. WIPER SPEED LOW
-![LOW](https://user-images.githubusercontent.com/101312396/168206233-b2fbccf2-1df2-4b97-9127-4e99626506cd.png)
-3. WIPER SPEED MEDIUM
-
-![G](https://user-images.githubusercontent.com/101312396/168206571-cfa61e88-18c1-4db7-a97f-23284b343cbe.png)
-
-4. WIPER SPEED IS HIGH
-
-![orange led on](https://user-images.githubusercontent.com/101312396/168262791-82c3814b-e03f-4937-8689-a085f7b701fe.png)
-
-
-5. user button is pressed and held for 2 seconds, the red LED is off
-![OFF](https://user-images.githubusercontent.com/101312396/168207080-f499c980-b029-48a1-becf-b28a336b77ce.png)
-6. WIPER_SYSTEM 1
-
-![wiper_system_1](https://user-images.githubusercontent.com/101312396/168263591-60d2e35f-b2f0-42ff-b817-deaf276ef828.png)
+![21](https://user-images.githubusercontent.com/101246546/168374794-3a352e3b-3052-4844-9194-2058bd25f6f8.png)2. WIPER SPEED LOW
+![22](https://user-images.githubusercontent.com/101246546/168374775-91a1d8b4-34fa-4013-ba4a-14e040b5f8f8.png)3. WIPER SPEED MEDIUM
+![23](https://user-images.githubusercontent.com/101246546/168374758-a6d9d630-282e-47f2-909a-661e03762391.png)4. WIPER SPEED IS HIGH
+![24](https://user-images.githubusercontent.com/101246546/168374734-ad72bd61-36af-457f-9cce-584002853bf8.png)5. user button is pressed and held for 2 seconds, the red LED is off
+![25](https://user-images.githubusercontent.com/101246546/168374690-707e58a4-d3cf-4744-85be-3ca4aba05b6c.png)6. WIPER_SYSTEM 1!
+7. [26](https://user-images.githubusercontent.com/101246546/168374661-e4ad36a4-b3e2-4043-aa51-10b154ceb401.png)
